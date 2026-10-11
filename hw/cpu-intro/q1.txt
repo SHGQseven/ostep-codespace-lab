@@ -1,0 +1,3 @@
+Bad description (): Must be number <x:y>
+  where X is the number of instructions
+  and Y is the percent change that an instruction is CPU not IO
